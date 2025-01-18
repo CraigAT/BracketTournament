@@ -40,7 +40,7 @@ if teams < twos:
         seeds = new_seeds
 print()
 #print(f'Final:  {power=}  {twos=}  {seeds=}')
-print(f'Final: {seeds}')
+print(f'Initial Draw Order: {seeds}')
 #print()
 
 
